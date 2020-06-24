@@ -5,5 +5,5 @@ metadata:
 spec:
   containers:
     - name: posts
-      image: gameboy/microservice-blog-posts:0.0.1
+      image: gameboy/microservice-blog-posts:0.0.1-avm
 
