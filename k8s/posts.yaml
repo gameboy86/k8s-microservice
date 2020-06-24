@@ -3,7 +3,7 @@ kind: Pod
 metadata:
   name: posts
 spec:
-  container:
+  containers:
     - name: posts
       image: gameboy/microservice-blog-posts:0.0.1
 
