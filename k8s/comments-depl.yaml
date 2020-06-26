@@ -14,7 +14,7 @@ spec:
     spec:
       containers:
         - name: comments
-          image: gameboy/microservice-comments:lastest
+          image: gameboy/microservice-comments:latest
 
 ---
 apiVersion: v1
